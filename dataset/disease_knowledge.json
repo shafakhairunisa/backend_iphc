@@ -1,0 +1,540 @@
+{
+  "AIDS": {
+    "description": "AIDS is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV).",
+    "how_to_feel_better": [
+      "Take antiretroviral therapy (ART) as prescribed.",
+      "Eat a balanced diet and stay active.",
+      "Avoid exposure to infections."
+    ],
+    "how_to_prevent": [
+      "Practice safe sex.",
+      "Avoid sharing needles or syringes.",
+      "Get regularly tested for HIV."
+    ],
+    "when_to_seek_help": "Seek help if you develop unusual infections, extreme fatigue, or unexplained weight loss."
+  },
+  "Acne": {
+    "description": "Acne is a skin condition that occurs when hair follicles become clogged with oil and dead skin cells.",
+    "how_to_feel_better": [
+      "Cleanse your face gently twice a day.",
+      "Use over-the-counter acne treatments.",
+      "Avoid touching your face frequently."
+    ],
+    "how_to_prevent": [
+      "Maintain a proper skincare routine.",
+      "Keep your hands off your face.",
+      "Avoid oily cosmetics."
+    ],
+    "when_to_seek_help": "If over-the-counter treatments do not help or acne causes scarring."
+  },
+  "Alcoholic hepatitis": {
+    "description": "Alcoholic hepatitis is inflammation of the liver caused by drinking alcohol.",
+    "how_to_feel_better": [
+      "Stop drinking alcohol immediately.",
+      "Follow a liver-friendly diet.",
+      "Take prescribed medications."
+    ],
+    "how_to_prevent": [
+      "Limit alcohol consumption.",
+      "Avoid binge drinking.",
+      "Seek help for alcohol addiction if needed."
+    ],
+    "when_to_seek_help": "Seek medical help if you experience jaundice, abdominal pain, or vomiting blood."
+  },
+  "Allergy": {
+    "description": "An allergy is an immune response to a foreign substance that\u2019s not typically harmful to your body.",
+    "how_to_feel_better": [
+      "Avoid known allergens.",
+      "Take antihistamines as needed.",
+      "Use air filters in your home."
+    ],
+    "how_to_prevent": [
+      "Get tested for allergens.",
+      "Use hypoallergenic products.",
+      "Keep windows closed during high pollen seasons."
+    ],
+    "when_to_seek_help": "If you have trouble breathing or experience anaphylaxis, seek emergency care."
+  },
+  "Arthritis": {
+    "description": "Arthritis is inflammation of one or more joints, causing pain and stiffness that can worsen with age.",
+    "how_to_feel_better": [
+      "Stay active with low-impact exercises.",
+      "Use hot/cold compresses on joints.",
+      "Take NSAIDs or other medications as prescribed."
+    ],
+    "how_to_prevent": [
+      "Maintain a healthy weight.",
+      "Avoid joint injuries.",
+      "Stay physically active."
+    ],
+    "when_to_seek_help": "If joint pain, swelling, or stiffness worsen or limit your daily activities."
+  },
+  "(vertigo) Paroymsal  Positional Vertigo": {
+    "description": "(vertigo) Paroymsal  Positional Vertigo is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for (vertigo) paroymsal  positional vertigo.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid (vertigo) paroymsal  positional vertigo.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of (vertigo) paroymsal  positional vertigo worsen or persist over time."
+  },
+  "Bronchial Asthma": {
+    "description": "Bronchial Asthma is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for bronchial asthma.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid bronchial asthma.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of bronchial asthma worsen or persist over time."
+  },
+  "Cervical spondylosis": {
+    "description": "Cervical spondylosis is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for cervical spondylosis.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid cervical spondylosis.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of cervical spondylosis worsen or persist over time."
+  },
+  "Chicken pox": {
+    "description": "Chicken pox is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for chicken pox.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid chicken pox.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of chicken pox worsen or persist over time."
+  },
+  "Chronic cholestasis": {
+    "description": "Chronic cholestasis is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for chronic cholestasis.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid chronic cholestasis.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of chronic cholestasis worsen or persist over time."
+  },
+  "Common Cold": {
+    "description": "Common Cold is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for common cold.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid common cold.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of common cold worsen or persist over time."
+  },
+  "Dengue": {
+    "description": "Dengue is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for dengue.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid dengue.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of dengue worsen or persist over time."
+  },
+  "Diabetes ": {
+    "description": "Diabetes  is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for diabetes .",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid diabetes .",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of diabetes  worsen or persist over time."
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "description": "Dimorphic hemmorhoids(piles) is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for dimorphic hemmorhoids(piles).",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid dimorphic hemmorhoids(piles).",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of dimorphic hemmorhoids(piles) worsen or persist over time."
+  },
+  "Drug Reaction": {
+    "description": "Drug Reaction is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for drug reaction.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid drug reaction.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of drug reaction worsen or persist over time."
+  },
+  "Fungal infection": {
+    "description": "Fungal infection is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for fungal infection.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid fungal infection.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of fungal infection worsen or persist over time."
+  },
+  "GERD": {
+    "description": "GERD is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for gerd.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid gerd.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of gerd worsen or persist over time."
+  },
+  "Gastroenteritis": {
+    "description": "Gastroenteritis is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for gastroenteritis.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid gastroenteritis.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of gastroenteritis worsen or persist over time."
+  },
+  "Heart attack": {
+    "description": "Heart attack is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for heart attack.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid heart attack.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of heart attack worsen or persist over time."
+  },
+  "Hepatitis B": {
+    "description": "Hepatitis B is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for hepatitis b.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid hepatitis b.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of hepatitis b worsen or persist over time."
+  },
+  "Hepatitis C": {
+    "description": "Hepatitis C is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for hepatitis c.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid hepatitis c.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of hepatitis c worsen or persist over time."
+  },
+  "Hepatitis D": {
+    "description": "Hepatitis D is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for hepatitis d.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid hepatitis d.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of hepatitis d worsen or persist over time."
+  },
+  "Hepatitis E": {
+    "description": "Hepatitis E is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for hepatitis e.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid hepatitis e.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of hepatitis e worsen or persist over time."
+  },
+  "Hypertension ": {
+    "description": "Hypertension  is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for hypertension .",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid hypertension .",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of hypertension  worsen or persist over time."
+  },
+  "Hyperthyroidism": {
+    "description": "Hyperthyroidism is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for hyperthyroidism.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid hyperthyroidism.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of hyperthyroidism worsen or persist over time."
+  },
+  "Hypoglycemia": {
+    "description": "Hypoglycemia is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for hypoglycemia.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid hypoglycemia.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of hypoglycemia worsen or persist over time."
+  },
+  "Hypothyroidism": {
+    "description": "Hypothyroidism is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for hypothyroidism.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid hypothyroidism.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of hypothyroidism worsen or persist over time."
+  },
+  "Impetigo": {
+    "description": "Impetigo is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for impetigo.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid impetigo.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of impetigo worsen or persist over time."
+  },
+  "Jaundice": {
+    "description": "Jaundice is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for jaundice.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid jaundice.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of jaundice worsen or persist over time."
+  },
+  "Malaria": {
+    "description": "Malaria is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for malaria.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid malaria.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of malaria worsen or persist over time."
+  },
+  "Migraine": {
+    "description": "Migraine is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for migraine.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid migraine.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of migraine worsen or persist over time."
+  },
+  "Osteoarthristis": {
+    "description": "Osteoarthristis is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for osteoarthristis.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid osteoarthristis.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of osteoarthristis worsen or persist over time."
+  },
+  "Paralysis (brain hemorrhage)": {
+    "description": "Paralysis (brain hemorrhage) is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for paralysis (brain hemorrhage).",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid paralysis (brain hemorrhage).",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of paralysis (brain hemorrhage) worsen or persist over time."
+  },
+  "Peptic ulcer diseae": {
+    "description": "Peptic ulcer diseae is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for peptic ulcer diseae.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid peptic ulcer diseae.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of peptic ulcer diseae worsen or persist over time."
+  },
+  "Pneumonia": {
+    "description": "Pneumonia is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for pneumonia.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid pneumonia.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of pneumonia worsen or persist over time."
+  },
+  "Psoriasis": {
+    "description": "Psoriasis is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for psoriasis.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid psoriasis.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of psoriasis worsen or persist over time."
+  },
+  "Tuberculosis": {
+    "description": "Tuberculosis is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for tuberculosis.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid tuberculosis.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of tuberculosis worsen or persist over time."
+  },
+  "Typhoid": {
+    "description": "Typhoid is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for typhoid.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid typhoid.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of typhoid worsen or persist over time."
+  },
+  "Urinary tract infection": {
+    "description": "Urinary tract infection is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for urinary tract infection.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid urinary tract infection.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of urinary tract infection worsen or persist over time."
+  },
+  "Varicose veins": {
+    "description": "Varicose veins is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for varicose veins.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid varicose veins.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of varicose veins worsen or persist over time."
+  },
+  "hepatitis A": {
+    "description": "hepatitis A is a medical condition characterized by specific symptoms and health risks.",
+    "how_to_feel_better": [
+      "Follow treatment guidelines for hepatitis a.",
+      "Maintain proper rest and nutrition.",
+      "Consult a doctor as needed."
+    ],
+    "how_to_prevent": [
+      "Take necessary precautions to avoid hepatitis a.",
+      "Practice general hygiene and health maintenance."
+    ],
+    "when_to_seek_help": "Seek medical help if symptoms of hepatitis a worsen or persist over time."
+  }
+}
